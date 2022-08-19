@@ -10,12 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 372,
-    "timeWeek": 372,
-    "timeMonth": 372,
-    "timeYear": 372,
+    "time": 323,
+    "timeDay": 323,
+    "timeWeek": 323,
+    "timeMonth": 323,
+    "timeYear": 323,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "YangHumKwan API",
+    "url": "https://api.yanghumkwan.pt",
+    "icon": "https://favicons.githubusercontent.com/api.yanghumkwan.pt",
+    "slug": "yang-hum-kwan-api",
+    "status": "down",
+    "uptime": "5.68%",
+    "uptimeDay": "5.68%",
+    "uptimeWeek": "5.68%",
+    "uptimeMonth": "5.68%",
+    "uptimeYear": "5.68%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-08-19": 0
+    }
   },
   {
     "name": "Personal Website",
@@ -28,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 320,
-    "timeWeek": 320,
-    "timeMonth": 320,
-    "timeYear": 320,
+    "time": 284,
+    "timeDay": 284,
+    "timeWeek": 284,
+    "timeMonth": 284,
+    "timeYear": 284,
     "dailyMinutesDown": {}
   }
 ]
