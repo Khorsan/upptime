@@ -22,9 +22,9 @@
     "url": "https://franciscocb.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/franciscocb.xyz.ico",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 170,
     "timeYear": 192,
     "dailyMinutesDown": {
+      "2023-03-26": 0,
       "2022-12-30": 16
     }
   }
